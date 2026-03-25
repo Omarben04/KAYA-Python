@@ -1,4 +1,4 @@
-# TP Équation de Kaya — Analyse de Données Mondiales
+#  Équation de Kaya — Analyse de Données Mondiales
 
 Ce projet a été réalisé dans le cadre du module de **Python appliqué à l'analyse de données** (L3 TRI — USMB). Il traite des données brutes de la **Banque Mondiale** pour illustrer graphiquement l'équation de **Yoichi Kaya**, qui relie les émissions mondiales de CO₂ à des facteurs démographiques, économiques et énergétiques.
 
